@@ -1,1 +1,6 @@
 # APT-analysis-of-LuFeO3-9-LuFe2O4-1-superlattices
+
+APT analysis of( LuFeO3)1/(LuFe2O4)9 superlattices. APT measurements were recorded with a Cameca LEAP 5000XS instrument, operating in laser pulsed mode. Data was collected at cryogenic temperature (T = 25 K) with an applied bias between 2 kV and 10 kV.  Laser pulses with 30 pJ energy and 250 kHz frequency were used, and the detection rate was set to 0.5%, i.e., 2 ions detected every 1000 pulse. The raw APT data was reconstructed into 3D datasets with the Cameca IVAS 3.6.12 software, using the voltage profile to determine the radial evolution. The image compression factor and field reduction factor was adjusted to make the thin film flat relative to the substrate.
+
+Thin films of (LuFeO3)9/(LuFe2O4)1 were grown by reactive-oxide molecular-beam epitaxy in a Veeco GEN10 system on (111) (ZrO2)0.905(Y2O3)0.095 (or 9.5 mol% yttria-stabilized zirconia) (YSZ) substrates. A 300 nm Ti or Cr protective layer was deposited on top of the film with e-beam evaporation using a Pfeiffer Vacuum Classic 500, at a rate of 1 Å/s. The characteristic needle shaped specimens for APT were prepared with a Helios NanoLab DualBeam FIB. Cross-sectional TEM specimens were prepared using an FEI Strata 400 FIB with a final milling step of 2 keV to reduce surface damage.
+
